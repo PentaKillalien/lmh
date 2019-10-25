@@ -1,0 +1,33 @@
+#header {
+    color:white;
+    text-align:center;
+    width: 1333px;
+    height:250px;
+    background: url(../img/header_img.jpg) no-repeat;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:600px;
+    width:200px;
+    float:left; 
+    opacity:0.5;
+    background: url(../img/bg_img_1.jpg);
+}
+#section {
+    width:1133px;
+    float:left;
+    width: 1133px;
+    height:600px;
+    background: url(../img/bg_img_1.jpg);
+    overflow:auto;
+    position:relative;
+}
+#footer {
+    color:black;
+    clear:both;
+    text-align:center;
+    opacity:0.5;
+    width: 1333px;
+    background: url(../img/bg_img_1.jpg);
+}

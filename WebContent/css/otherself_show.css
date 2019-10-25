@@ -1,0 +1,11 @@
+#content{
+	width:600px;
+	height:600px;
+	padding-left:100px;
+}
+#article{
+	width:500px;
+	height:400px;
+	overflow:auto;
+	padding-left:80px;
+}
